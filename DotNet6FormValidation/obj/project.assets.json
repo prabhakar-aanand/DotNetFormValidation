@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CoreDemo\\DotNet6FormValidation\\DotNet6FormValidation\\DotNet6FormValidation.csproj",
+      "projectUniqueName": "D:\\DotNetFormValidation\\DotNetFormValidation\\DotNet6FormValidation\\DotNet6FormValidation.csproj",
       "projectName": "DotNet6FormValidation",
-      "projectPath": "D:\\CoreDemo\\DotNet6FormValidation\\DotNet6FormValidation\\DotNet6FormValidation.csproj",
+      "projectPath": "D:\\DotNetFormValidation\\DotNetFormValidation\\DotNet6FormValidation\\DotNet6FormValidation.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\CoreDemo\\DotNet6FormValidation\\DotNet6FormValidation\\obj\\",
+      "outputPath": "D:\\DotNetFormValidation\\DotNetFormValidation\\DotNet6FormValidation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
